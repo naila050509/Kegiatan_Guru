@@ -1,7 +1,5 @@
 ﻿# Kegiatan_Guru
 
-# Dokumentasi Database
-
 ## ERD – Kegiatan Guru
 
 Lihat diagram lengkap di:  
@@ -11,4 +9,7 @@ atau lihat gambar diagram di bawah:
 
 ![ERD Kegiatan_Guru](Kegiatan_Guru.svg)
 
+## Flowchart – Kegiatan Guru
+
 ![ERD Kegiatan_Guru](Kegiatan_Guru.drawio.svg)
+
