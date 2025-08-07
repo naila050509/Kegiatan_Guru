@@ -31,7 +31,8 @@ atau lihat gambar diagram di bawah:
 
 ## Flowchart – Kegiatan Guru
 
-![ERD Kegiatan_Guru](Aplikasi_Kegiatan_Guru.drawio.svg)
+![ERD Kegiatan_Guru](Kegiatan-Guru.drawio.svg)
+
 
 
 
