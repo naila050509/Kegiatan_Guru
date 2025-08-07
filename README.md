@@ -4,6 +4,13 @@
 
 ## User
 
+| Nama         | Mata Pelajaran | Jumlah Kegiatan |
+|--------------|----------------|-----------------|
+| Pak Rudi     | Matematika     | 5               |
+| Bu Sari      | Bahasa Inggris | 3               |
+| Pak Joko     | IPA            | 4               |
+
+
 ## ERD – Kegiatan Guru
 
 Lihat diagram lengkap di:  
@@ -16,6 +23,7 @@ atau lihat gambar diagram di bawah:
 ## Flowchart – Kegiatan Guru
 
 ![ERD Kegiatan_Guru](Kegiatan_Guru.drawio.svg)
+
 
 
 
