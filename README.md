@@ -1,5 +1,7 @@
 ﻿# Kegiatan_Guru
 
+ Kegiatan Guru adalah salah satu aplikasi berbasis website yang berguna untuk guru, serta murid. Sebagai guru aplikasi ini berguna untuk memantau kegiatan serta laporan yang ada di sekolah sedangkan murid bisa melihat kegiatan yang akan di jalankan sekolah.
+
 ## ERD – Kegiatan Guru
 
 Lihat diagram lengkap di:  
@@ -12,4 +14,5 @@ atau lihat gambar diagram di bawah:
 ## Flowchart – Kegiatan Guru
 
 ![ERD Kegiatan_Guru](Kegiatan_Guru.drawio.svg)
+
 
