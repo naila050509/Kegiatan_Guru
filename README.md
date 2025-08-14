@@ -1,10 +1,10 @@
-<h1 align="center">Kegiatan_Guru</h1>
+<h1 align="center">Kegiatan_Guru 💻</h1>
 
 <p align="center">
   <b> Kegiatan Guru adalah salah satu aplikasi berbasis website yang berguna untuk guru, serta murid. Sebagai guru aplikasi ini berguna untuk memantau kegiatan serta laporan yang ada di sekolah sedangkan murid bisa melihat kegiatan yang akan di jalankan sekolah.</b>
 </p>
 
-<h1 align="center">Fitur yang di dapatkan</h1>
+<h1 align="center">Fitur yang di dapatkan 💻</h1>
 
 Jika login ke admin :
 1. Melihat statistik kegiatan guru
@@ -32,9 +32,10 @@ atau lihat gambar diagram di bawah:
 
 ![ERD Kegiatan_Guru](Kegiatan_Guru.svg)
 
-<h1 align="center">Flowchart – Kegiatan Guru</h1>
+<h1 align="center">Flowchart – Kegiatan Guru 📈📉</h1>
 
 ![ERD Kegiatan_Guru](Kegiatan-Guru.drawio.svg)
+
 
 
 
