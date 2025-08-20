@@ -36,8 +36,9 @@ atau lihat gambar diagram di bawah:
 
 ![ERD Kegiatan_Guru](Kegiatan-Guru.drawio.svg)
 
+<h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
 
-
+![ERD Kegiatan_Guru](Use Case_Kegiatan_Guru.drawio.svg)
 
 
 
