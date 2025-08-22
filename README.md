@@ -40,7 +40,9 @@ atau lihat gambar diagram di bawah:
 
 ![ERD Kegiatan_Guru](DiagramUseCase_Kegiatan-guru.drawio.svg)
 
+<h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
+![ERD Kegiatan_Guru](Activity_Diagram.drawio.svg)
 
 
 
