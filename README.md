@@ -34,7 +34,7 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Flowchart – Kegiatan Guru 📈📉</h1>
 
-![ERD Kegiatan_Guru](Flowchart_KegiatanGuru.svg)
+![ERD Kegiatan_Guru](Flowchart_Aplikasi.drawio.svg)
 
 <h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
 
@@ -43,6 +43,7 @@ atau lihat gambar diagram di bawah:
 <h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
 ![ERD Kegiatan_Guru](Diagram_Activity.drawio.svg)
+
 
 
 
