@@ -38,11 +38,12 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
 
-![ERD Kegiatan_Guru](DiagramUseCase_Kegiatan-guru.drawio.svg)
+![ERD Kegiatan_Guru](UseCase_KegiatanGuru.drawio.svg)
 
 <h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
 ![ERD Kegiatan_Guru](Diagram_Activity.drawio.svg)
+
 
 
 
