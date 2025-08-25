@@ -31,25 +31,25 @@ https://dbdiagram.io/d/Kegiatan-Guru-689368addd90d17865bd91be
 atau lihat gambar diagram di bawah:
 
 <p align="center">
-  <img src="Kegiatan_Guru.svg" width="350"/>
+  <img src="Kegiatan_Guru.svg" width="500"/>
 </p>
 
 <h1 align="center">Flowchart – Kegiatan Guru 📈📉</h1>
 
 <p align="center">
-  <img src="Flowchart_Aplikasi.drawio.svg" width="350"/>
+  <img src="Flowchart_Aplikasi.drawio.svg" width="500"/>
 </p>
 
 <h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
 
 <p align="center">
-  <img src="UseCase_KegiatanGuru.drawio.svg" width="350"/>
+  <img src="UseCase_KegiatanGuru.drawio.svg" width="500"/>
 </p>
 
 <h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
 <p align="center">
-  <img src="Activity_Diagram.drawio.svg" width="350"/>
+  <img src="Activity_Diagram.drawio.svg" width="500"/>
 </p>
 
 <h1 align="center">Tampilan Aplikasi – Kegiatan Guru 📈📉</h1>
@@ -57,6 +57,7 @@ atau lihat gambar diagram di bawah:
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
 | ![Login](Login%20Page.png) | ![Admin](Dashboard%20admin.png) | ![Guru](Dashboard%20Guru.png) | ![Murid](Dashboard%20Murid.png) |
+
 
 
 
