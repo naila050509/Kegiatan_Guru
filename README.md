@@ -46,12 +46,10 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Tampilan Aplikasi – Kegiatan Guru 📈📉</h1>
 
-<p float="left">
-  <img src="Login%20Page.png" width="250"/>
-  <img src="Dashboard%20admin.png" width="250"/>
-  <img src="Dashboard%20Guru.png" width="250"/>
-  <img src="Dashboard%20Murid.png" width="250"/>
-</p>
+| Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
+|------------|-----------------|----------------|-----------------|
+| ![Login](Login%20Page.png) | ![Admin](Dashboard%20admin.png) | ![Guru](Dashboard%20Guru.png) | ![Murid](Dashboard%20Murid.png) |
+
 
 
 
