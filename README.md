@@ -46,10 +46,9 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Tampilan Aplikasi – Kegiatan Guru 📈📉</h1>
 
-![ERD Kegiatan_Guru](Login%20Page.png)
-![ERD Kegiatan_Guru](Dashboard admin.png)
-![ERD Kegiatan_Guru](Dashboard Guru.png)
-![ERD Kegiatan_Guru](Dashboard Murid.png)
+| Login Page | Dashboard Admin | Dashboard Guru | | Dashboard Murid |
+|------------|-----------------|----------------|----------------|
+| ![Login](Login%20Page.png) | ![Admin](Dashboard%20admin.png) | ![Guru](Dashboard%20Guru.png) | ![Guru](Dashboard%20Murid.png) |
 
 
 
