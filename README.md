@@ -42,7 +42,8 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
-![ERD Kegiatan_Guru](Diagram_Activity.drawio.svg)
+![ERD Kegiatan_Guru](Activity_Diagram.drawio.svg)
+
 
 
 
