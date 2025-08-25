@@ -46,12 +46,13 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Tampilan Aplikasi – Kegiatan Guru 📈📉</h1>
 
-<p align="center">
-  <img src="Login%20Page.png" alt="Login Page" width="250"/>
-  <img src="Dashboard%20admin.png" alt="Dashboard Admin" width="250"/>
-  <img src="Dashboard%20Guru.png" alt="Dashboard Guru" width="250"/>
-  <img src="Dashboard%20Murid.png" alt="Dashboard Murid" width="250"/>
+<p float="left">
+  <img src="Login%20Page.png" width="250"/>
+  <img src="Dashboard%20admin.png" width="250"/>
+  <img src="Dashboard%20Guru.png" width="250"/>
+  <img src="Dashboard%20Murid.png" width="250"/>
 </p>
+
 
 
 
