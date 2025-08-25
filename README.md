@@ -50,7 +50,7 @@ atau lihat gambar diagram di bawah:
   <img src="Login%20Page.png" alt="Login Page" width="250"/>
   <img src="Dashboard%20admin.png" alt="Dashboard Admin" width="250"/>
   <img src="Dashboard%20Guru.png" alt="Dashboard Guru" width="250"/>
-  <img src="Dashboard%20Murid.png" alt="Dashboard Guru" width="250"/>
+  <img src="Dashboard%20Murid.png" alt="Dashboard Murid" width="250"/>
 </p>
 
 
