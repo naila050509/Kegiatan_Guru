@@ -46,10 +46,11 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Tampilan Aplikasi – Kegiatan Guru 📈📉</h1>
 
-![ERD Kegiatan_Guru](Login Page.png)
+![ERD Kegiatan_Guru](Login%20Page.png)
 ![ERD Kegiatan_Guru](Dashboard admin.png)
 ![ERD Kegiatan_Guru](Dashboard Guru.png)
 ![ERD Kegiatan_Guru](Dashboard Murid.png)
+
 
 
 
