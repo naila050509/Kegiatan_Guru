@@ -56,7 +56,8 @@ atau lihat gambar diagram di bawah:
 
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
-| ![Login](Login%20Page.png) | ![Admin](Dashboard%20admin.png) | ![Guru](Dashboard%20Guru.png) | ![Murid](Dashboard%20Murid.png) |
+| ![Login](UI/Login%20Page.png) | ![Admin](UI/Dashboard%20admin.png) | ![Guru](UI/Dashboard%20Guru.png) | ![Murid](UI/Dashboard%20Murid.png) |
+
 
 
 
