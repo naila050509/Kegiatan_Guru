@@ -46,7 +46,12 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Tampilan Aplikasi – Kegiatan Guru 📈📉</h1>
 
-| ![Login](Login%20Page.png) | ![Admin](Dashboard%20admin.png) | ![Guru](Dashboard%20Guru.png) | ![Guru](Dashboard%20Murid.png) |
+<p align="center">
+  <img src="Login%20Page.png" alt="Login Page" width="250"/>
+  <img src="Dashboard%20admin.png" alt="Dashboard Admin" width="250"/>
+  <img src="Dashboard%20Guru.png" alt="Dashboard Guru" width="250"/>
+  <img src="Dashboard%20Murid.png" alt="Dashboard Guru" width="250"/>
+</p>
 
 
 
