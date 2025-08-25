@@ -37,7 +37,7 @@ atau lihat gambar diagram di bawah:
 <h1 align="center">Flowchart – Kegiatan Guru 📈📉</h1>
 
 <p align="center">
-  <img src="Flowchart_Aplikasi.drawio.svg" width="700"/>
+  <img src="Flowchart_KegiatanGuru.drawio.svg" width="700"/>
 </p>
 
 <h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
@@ -57,6 +57,7 @@ atau lihat gambar diagram di bawah:
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
 | ![Login](UI/Login%20Page.png) | ![Admin](UI/Dashboard%20admin.png) | ![Guru](UI/Dashboard%20Guru.png) | ![Murid](UI/Dashboard%20Murid.png) |
+
 
 
 
