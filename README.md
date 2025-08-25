@@ -42,9 +42,9 @@ atau lihat gambar diagram di bawah:
 
 <h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
 
-<p align="center">
-  <img src="UseCase_KegiatanGuru.drawio.svg" width="700"/>
-</p>
+| Admin | Guru & Murid | 
+|------------|-----------------|
+| ![Admin](UseCase_Admin.drawio.svg) | ![Guru & Murid](UseCase_Guru&Murid.drawio.svg) | 
 
 <h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
@@ -57,6 +57,7 @@ atau lihat gambar diagram di bawah:
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
 | ![Login](UI/Login%20Page.png) | ![Admin](UI/Dashboard%20admin.png) | ![Guru](UI/Dashboard%20Guru.png) | ![Murid](UI/Dashboard%20Murid.png) |
+
 
 
 
