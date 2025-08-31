@@ -6,24 +6,29 @@
 
 <h1 align="center">Fitur yang di dapatkan 💻</h1>
 
-<p align="center">
-  Jika login ke admin :
-  1. Melihat statistik kegiatan guru
-  2. Mengelola akun user (tambah/hapus guru & murid)
-  3. Verifikasi kegiatan yang diinput guru
-  4. Melihat dan mencetak laporan rekap kegiatan
-  
-  Jika login ke guru :
-  1. Input kegiatan harian
-  2. Upload file bukti
-  3. Lihat status kegiatan: approved/pending/rejected
-  4. Edit/hapus kegiatan (jika belum diverifikasi)
-  
-  Jika login ke murid :
-  1. Lihat data guru
-  2. Lihat informasi kegiatan (opsional)
-  3. Kirim feedback atau lihat pengumuman
-</p>
+<h3 align="center">Jika login ke admin :</h3>
+<ul align="center">
+  <li>Melihat statistik kegiatan guru</li>
+  <li>Mengelola akun user (tambah/hapus guru & murid)</li>
+  <li>Verifikasi kegiatan yang diinput guru</li>
+  <li>Melihat dan mencetak laporan rekap kegiatan</li>
+</ul>
+
+<h3 align="center">Jika login ke guru :</h3>
+<ul align="center">
+  <li>Input kegiatan harian</li>
+  <li>Upload file bukti</li>
+  <li>Lihat status kegiatan: approved/pending/rejected</li>
+  <li>Edit/hapus kegiatan (jika belum diverifikasi)</li>
+</ul>
+
+<h3 align="center">Jika login ke murid :</h3>
+<ul align="center">
+  <li>Lihat data guru</li>
+  <li>Lihat informasi kegiatan (opsional)</li>
+  <li>Kirim feedback atau lihat pengumuman</li>
+</ul>
+
 
 <h1 align="center">ERD – Kegiatan Guru</h1>
 
@@ -59,6 +64,7 @@ atau lihat gambar diagram di bawah:
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
 | ![Login](UI/Login%20Page.png) | ![Admin](UI/Dashboard%20admin.png) | ![Guru](UI/Dashboard%20Guru.png) | ![Murid](UI/Dashboard%20Murid.png) |
+
 
 
 
