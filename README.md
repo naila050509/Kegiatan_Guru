@@ -31,20 +31,20 @@ https://dbdiagram.io/d/Kegiatan-Guru-689368addd90d17865bd91be
 atau lihat gambar diagram di bawah:
 
 <p align="center">
-  <img src="Kegiatan_Guru.svg" width="700"/>
+  <img src="Kegiatan_Guru.svg" width="850"/>
 </p>
 
 <h1 align="center">Flowchart – Kegiatan Guru 📈📉</h1>
 
 <p align="center">
-  <img src="Flowchart_Aplikasi.drawio.svg" width="700"/>
+  <img src="Flowchart_KegiatanGuru.drawio.svg" width="700"/>
 </p>
 
 <h1 align="center">Diagram Use Case – Kegiatan Guru 📈📉</h1>
 
-<p align="center">
-  <img src="UseCase_KegiatanGuru.drawio.svg" width="700"/>
-</p>
+| Admin | Guru & Murid | 
+|------------|-----------------|
+| ![Admin](UseCase_Admin.drawio.svg) | ![Guru & Murid](UseCase_Guru&Murid.drawio.svg) | 
 
 <h1 align="center">Activity Diagram – Kegiatan Guru 📈📉</h1>
 
@@ -56,7 +56,13 @@ atau lihat gambar diagram di bawah:
 
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
-| ![Login](Login%20Page.png) | ![Admin](Dashboard%20admin.png) | ![Guru](Dashboard%20Guru.png) | ![Murid](Dashboard%20Murid.png) |
+| ![Login](UI/Login%20Page.png) | ![Admin](UI/Dashboard%20admin.png) | ![Guru](UI/Dashboard%20Guru.png) | ![Murid](UI/Dashboard%20Murid.png) |
+
+
+
+
+
+
 
 
 
